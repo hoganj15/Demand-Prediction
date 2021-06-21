@@ -1,7 +1,7 @@
 # Demand-Prediction
 Demand prediction methods used for a master's project on the topic.
 
-The purpose of the project was to explore various demand prediction methods as per the professor's instructions. The primary objective was to maximize the out of sample R-squared value. The analysis could be easily modified to optimize of a different loss function, however.
+The purpose of the project was to explore various demand prediction methods as per the professor's instructions given in the assignment (data splitting and loss function were specified for the students). The primary objective was to maximize the out of sample R-squared value. The analysis could be easily modified to optimize of a different loss function, however.
 
 The data is weekly-aggregated sales for a variety of tech-related SKUs. There are three notebooks in the repository:
 
